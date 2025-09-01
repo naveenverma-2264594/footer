@@ -60,10 +60,6 @@ export const CustomFooter = ({
         className,
       )}
     >
-      {/* Custom Footer Indicator */}
-      <div className="bg-gradient-to-r from-blue-500 to-purple-600 text-white text-center py-2 text-sm font-medium">
-        🎨 Custom Footer Active
-      </div>
       
       <div className="mx-auto max-w-screen-2xl px-4 py-6 @xl:px-6 @xl:py-10 @4xl:px-8 @4xl:py-12">
         <div className="flex flex-col justify-between gap-x-24 gap-y-12 @3xl:flex-row @3xl:gap-x-64 @3xl:items-start">
